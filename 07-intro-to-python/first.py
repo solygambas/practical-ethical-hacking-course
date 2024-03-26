@@ -119,7 +119,7 @@
 # print(alcohol(20, 5)) # Nice try, kid!
 # print(alcohol(20, 4)) # You're too poor and too young!
 
-# LISTS
+# LISTS [mutable]
 
 # movies = ["The Holy Grail", "The Life of Brian", "The Meaning of Life", "The Holy Grail"]
 # print(movies[0]) # The Holy Grail
@@ -147,4 +147,62 @@
 # bobs_grade = grades[0][1]
 # print(bobs_grade) # 3.7
 
+# TUPLES (immutable)
 
+# grades = ("a", "b", "c", "d", "f")
+# print(grades[1]) # b
+
+# LOOPING
+
+# veggies = ["carrot", "potato", "onion", "celery"]
+# for x in veggies:
+#     print(x)
+
+# i = 0
+# while i < 10:
+#     print(i)
+#     i += 1
+
+# ADVANCED STRINGS
+
+# my_name = "Heath"
+# print(my_name[0]) # H
+# print(my_name[-1]) # h
+
+# sentence = "This is a sentence."
+# print(sentence[:4]) # This
+# print(sentence.split()) # ['This', 'is', 'a', 'sentence.']
+# sentence_split = sentence.split()
+# sentence_join = " ".join(sentence_split)
+# print(sentence_join) # This is a sentence.
+
+# quote = "He said, \"All is fair in love and war.\""
+
+# too_much_space = "     hello     "
+# print(too_much_space.strip()) # hello
+
+# Case sensitive
+print("A" in "Apple") # True
+print("a" in "Apple") # False
+print("a" in "Apple".lower()) # True
+
+movie = "The Holy Grail"
+print("My favorite movie is {}.".format(movie)) # My favorite movie is The Holy Grail.
+print("My favorite movie is %s." % movie) # My favorite movie is The Holy Grail.
+print(f"My favorite movie is {movie}.") # My favorite movie is The Holy Grail.
+
+# DICTIONARIES {key: value}
+
+players = {"Heath": 30, "Amber": 29, "Bob": 31}
+
+employees = {'Finance': ['Bob', 'Linda', 'Tina'], 'IT': ['Gene', 'Louise', 'Teddy'], 'HR': ['Jimmy Jr.', 'Mort', 'Hugo']}
+
+employees['Legal'] = ['Mr. Frond']
+print(employees) # {'Finance': ['Bob', 'Linda', 'Tina'], 'IT': ['Gene', 'Louise', 'Teddy'], 'HR': ['Jimmy Jr.', 'Mort', 'Hugo'], 'Legal': ['Mr. Frond']}
+
+employees.update({'Sales': ['Andy', 'Ollie', 'Calvin']})
+print(employees) # {'Finance': ['Bob', 'Linda', 'Tina'], 'IT': ['Gene', 'Louise', 'Teddy'], 'HR': ['Jimmy Jr.', 'Mort', 'Hugo'], 'Legal': ['Mr. Frond'], 'Sales': ['Andy', 'Ollie', 'Calvin']}
+
+players['Amber'] = 30
+print(players) # {'Heath': 30, 'Amber': 30, 'Bob': 31}
+print(players.get('Heath')) # 30
