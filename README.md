@@ -24,9 +24,9 @@ Comprehensive notes from a hands-on course covering networking, Linux, Python, M
 | 016 | [Active Directory Lab Build](16.%20Active%20Directory%20Lab%20Build.md)                                                                 |
 | 017 | [Attacking Active Directory - Initial Attack Vectors](17.%20Attacking%20Active%20Directory%20-%20Initial%20Attack%20Vectors.md)         |
 | 018 | [Attacking Active Directory - Post-Compromise Enumeration](18.%20Attacking%20Active%20Directory%20-%20Post-Compromise%20Enumeration.md) |
+| 019 | [Attacking Active Directory - Post-Compromise Attacks](19.%20Attacking%20Active%20Directory%20-%20Post-Compromise%20Attacks.md)         |
 
-<!-- | 019 | [Attacking Active Directory - Post-Compromise Attacks](19.%20Attacking%20Active%20Directory%20-%20Post-Compromise%20Attacks.md)         |
-| 020 | [We've Compromised the Domain - Now What?](20.%20We've%20Compromised%20the%20Domain%20-%20Now%20What.md)                                |
+<!-- | 020 | [We've Compromised the Domain - Now What?](20.%20We've%20Compromised%20the%20Domain%20-%20Now%20What.md)                                |
 | 021 | [Additional Active Directory Attacks](21.%20Additional%20Active%20Directory%20Attacks.md)                                               |
 | 022 | [Active Directory Case Studies](22.%20Active%20Directory%20Case%20Studies.md)                                                           |
 | 023 | [Post Exploitation](23.%20Post%20Exploitation.md)                                                                                       |
