@@ -26,6 +26,7 @@ Comprehensive notes from a hands-on course covering networking, Linux, Python, M
 | 018 | [Attacking Active Directory - Post-Compromise Enumeration](18.%20Attacking%20Active%20Directory%20-%20Post-Compromise%20Enumeration.md) |
 | 019 | [Attacking Active Directory - Post-Compromise Attacks](19.%20Attacking%20Active%20Directory%20-%20Post-Compromise%20Attacks.md)         |
 | 020 | [We've Compromised the Domain - Now What?](20.%20We've%20Compromised%20the%20Domain%20-%20Now%20What.md)                                |
+| 028 | [Career Advice](28.%20Career%20Advice.md)                                                                                               |
 
 <!-- | 021 | [Additional Active Directory Attacks](21.%20Additional%20Active%20Directory%20Attacks.md)                                               |
 | 022 | [Active Directory Case Studies](22.%20Active%20Directory%20Case%20Studies.md)                                                           |
@@ -33,7 +34,6 @@ Comprehensive notes from a hands-on course covering networking, Linux, Python, M
 | 024 | [Web Application Enumeration - Revisited](24.%20Web%20Application%20Enumeration%20-%20Revisited.md)                                     |
 | 025 | [Find & Exploit Common Web Vulnerabilities](25.%20Find%20&%20Exploit%20Common%20Web%20Vulnerabilities.md)                               |
 | 026 | [Wireless Penetration Testing](26.%20Wireless%20Penetration%20Testing.md)                                                               |
-| 027 | [Legal Documents and Report Writing](27.%20Legal%20Documents%20and%20Report%20Writing.md)                                               |
-| 028 | [Career Advice](28.%20Career%20Advice.md)                                                                                               | -->
+| 027 | [Legal Documents and Report Writing](27.%20Legal%20Documents%20and%20Report%20Writing.md)                                               |                                                                                              | -->
 
 Based on [Practical Ethical Hacking: The Complete Course](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course) by TCM Security (2023).
