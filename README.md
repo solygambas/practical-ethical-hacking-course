@@ -29,10 +29,10 @@ Comprehensive notes from a hands-on course covering networking, Linux, Python, M
 | 021 | [Additional Active Directory Attacks](21.%20Additional%20Active%20Directory%20Attacks.md)                                               |
 | 022 | [Active Directory Case Studies](22.%20Active%20Directory%20Case%20Studies.md)                                                           |
 | 023 | [Post Exploitation](23.%20Post%20Exploitation.md)                                                                                       |
+| 024 | [Web Application Enumeration - Revisited](24.%20Web%20Application%20Enumeration%20-%20Revisited.md)                                     |
 | 028 | [Career Advice](28.%20Career%20Advice.md)                                                                                               |
 
 <!--
-| 024 | [Web Application Enumeration - Revisited](24.%20Web%20Application%20Enumeration%20-%20Revisited.md)                                     |
 | 025 | [Find & Exploit Common Web Vulnerabilities](25.%20Find%20&%20Exploit%20Common%20Web%20Vulnerabilities.md)                               |
 | 026 | [Wireless Penetration Testing](26.%20Wireless%20Penetration%20Testing.md)                                                               |
 | 027 | [Legal Documents and Report Writing](27.%20Legal%20Documents%20and%20Report%20Writing.md)                                               |                                                                                              | -->
